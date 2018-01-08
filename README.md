@@ -1,4 +1,4 @@
 # learning-arduino
-* just use learning.
+* just use to study Arduino.
 * Do not upload any keys.
 
